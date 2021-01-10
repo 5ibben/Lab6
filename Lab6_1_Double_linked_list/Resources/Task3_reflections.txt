@@ -1,0 +1,19 @@
+-----------What did you learn? What did you know already?-----------
+
+I learned a bit about polymorphism and dynamic casting in a practical sense
+
+-----------What was difficult in the lab? How did you overcome it?-----------
+
+As always, keeping it simple. I started of making a much more grandiose game which I ended up scrapping because I realised it would be alot more to document etc...
+I wasted alot of time on that project, but at least it served as practise I guess.
+Even in the game I ended up doing I couldn´t help myself, and ended up doing a 2 player mode for no good reason.
+
+Also as usual, I had some linking issues, among a bunch of other issues with visual studio, I guess it´s time for a good old format and reinstall.
+
+-----------How can the lab be improved?-----------
+
+
+
+-----------Additionally, write an estimate how many hours you spent on this lab.-----------
+
+I really couldn´t tell.
